@@ -1,0 +1,6 @@
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking.Tests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_AppointmentBooking.Tests
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking.Tests\obj\Debug\net8.0\AppointmentBooking.Tests.csproj.AssemblyReference.cache
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking.Tests\obj\Debug\net8.0\AppointmentBooking.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking.Tests\obj\Debug\net8.0\AppointmentBooking.Tests.AssemblyInfoInputs.cache
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking.Tests\obj\Debug\net8.0\AppointmentBooking.Tests.AssemblyInfo.cs
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking.Tests\obj\Debug\net8.0\AppointmentBooking.Tests.csproj.CoreCompileInputs.cache
