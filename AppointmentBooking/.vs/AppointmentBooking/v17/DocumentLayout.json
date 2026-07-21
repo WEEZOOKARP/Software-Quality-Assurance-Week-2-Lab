@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\weezo\\Desktop\\QA\\Software Quality Assurance Week 2 Lab\\AppointmentBooking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C4040C0-51D5-4695-A12D-A2CBE21497E8}|AppointmentBooking.Tests\\AppointmentBooking.Tests.csproj|c:\\users\\weezo\\desktop\\qa\\software quality assurance week 2 lab\\appointmentbooking\\appointmentbooking.tests\\appointmentbooking.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0C4040C0-51D5-4695-A12D-A2CBE21497E8}|AppointmentBooking.Tests\\AppointmentBooking.Tests.csproj|solutionrelative:appointmentbooking.tests\\appointmentbooking.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{823399BB-5A13-4493-96E3-F31145395B2B}|AppointmentBooking\\AppointmentBooking.csproj|c:\\users\\weezo\\desktop\\qa\\software quality assurance week 2 lab\\appointmentbooking\\appointmentbooking\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823399BB-5A13-4493-96E3-F31145395B2B}|AppointmentBooking\\AppointmentBooking.csproj|solutionrelative:appointmentbooking\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{823399BB-5A13-4493-96E3-F31145395B2B}|AppointmentBooking\\AppointmentBooking.csproj|c:\\users\\weezo\\desktop\\qa\\software quality assurance week 2 lab\\appointmentbooking\\appointmentbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{823399BB-5A13-4493-96E3-F31145395B2B}|AppointmentBooking\\AppointmentBooking.csproj|solutionrelative:appointmentbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C4040C0-51D5-4695-A12D-A2CBE21497E8}|AppointmentBooking.Tests\\AppointmentBooking.Tests.csproj|c:\\users\\weezo\\desktop\\qa\\software quality assurance week 2 lab\\appointmentbooking\\appointmentbooking.tests\\appointmentbooking.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C4040C0-51D5-4695-A12D-A2CBE21497E8}|AppointmentBooking.Tests\\AppointmentBooking.Tests.csproj|solutionrelative:appointmentbooking.tests\\appointmentbooking.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppointmentBooking.Tests",
               "DocumentMoniker": "C:\\Users\\weezo\\Desktop\\QA\\Software Quality Assurance Week 2 Lab\\AppointmentBooking\\AppointmentBooking.Tests\\AppointmentBooking.Tests.csproj",
               "RelativeDocumentMoniker": "AppointmentBooking.Tests\\AppointmentBooking.Tests.csproj",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\weezo\\Desktop\\QA\\Software Quality Assurance Week 2 Lab\\AppointmentBooking\\AppointmentBooking\\Program.cs",
-              "RelativeDocumentMoniker": "AppointmentBooking\\Program.cs",
-              "ToolTip": "C:\\Users\\weezo\\Desktop\\QA\\Software Quality Assurance Week 2 Lab\\AppointmentBooking\\AppointmentBooking\\Program.cs",
-              "RelativeToolTip": "AppointmentBooking\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\weezo\\Desktop\\QA\\Software Quality Assurance Week 2 Lab\\AppointmentBooking\\AppointmentBooking\\Doctor.cs",
+              "RelativeDocumentMoniker": "AppointmentBooking\\Doctor.cs",
+              "ToolTip": "C:\\Users\\weezo\\Desktop\\QA\\Software Quality Assurance Week 2 Lab\\AppointmentBooking\\AppointmentBooking\\Doctor.cs",
+              "RelativeToolTip": "AppointmentBooking\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-20T19:53:12.738Z",
               "EditorCaption": ""
