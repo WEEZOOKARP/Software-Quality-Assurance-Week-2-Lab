@@ -22,8 +22,8 @@ namespace AppointmentBooking
                 throw new ArgumentException("Patient ID is required.");
             if (string.IsNullOrWhiteSpace(legalName))
                 throw new ArgumentException("Legal name is required.");
-            String tempString = id;
-            if (!tempString.StartsWith('P'))
+            String tempString = id; // Couldn't be bothered with regex
+            if (!tempString.StartsWith('P')) // Basic id format, as long as it starts with P you're fine.
                 throw new ArgumentException("Patient ID is invalid, must start with: P.");
             // Valid inputs
             Id = id;
