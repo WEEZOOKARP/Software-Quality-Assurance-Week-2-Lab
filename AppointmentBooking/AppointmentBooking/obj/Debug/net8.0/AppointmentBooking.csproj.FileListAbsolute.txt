@@ -2,3 +2,11 @@ C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooki
 C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\obj\Debug\net8.0\AppointmentBooking.AssemblyInfoInputs.cache
 C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\obj\Debug\net8.0\AppointmentBooking.AssemblyInfo.cs
 C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\obj\Debug\net8.0\AppointmentBooking.csproj.CoreCompileInputs.cache
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\obj\Debug\net8.0\AppointmentBooking.sourcelink.json
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\bin\Debug\net8.0\AppointmentBooking.deps.json
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\bin\Debug\net8.0\AppointmentBooking.dll
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\bin\Debug\net8.0\AppointmentBooking.pdb
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\obj\Debug\net8.0\AppointmentBooking.dll
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\obj\Debug\net8.0\refint\AppointmentBooking.dll
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\obj\Debug\net8.0\AppointmentBooking.pdb
+C:\Users\weezo\Desktop\QA\Software Quality Assurance Week 2 Lab\AppointmentBooking\AppointmentBooking\obj\Debug\net8.0\ref\AppointmentBooking.dll

@@ -1,6 +1,6 @@
 ﻿using AppointmentBooking;
 namespace AppointmentBooking.Tests; 
-{ 
+
 [TestClass]
 public class AppointmentBookingServiceTests
 {
@@ -121,5 +121,4 @@ public class AppointmentBookingServiceTests
 
         Assert.AreEqual(0, doctor.AvailableSlots);
     }
-} 
-} 
+}
