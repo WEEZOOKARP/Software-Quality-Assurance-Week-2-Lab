@@ -1,4 +1,6 @@
-﻿namespace AppointmentBooking
+﻿using System.Text.RegularExpressions;
+
+namespace AppointmentBooking
 {
     public class Patient
     {
@@ -20,6 +22,9 @@
                 throw new ArgumentException("Patient ID is required.");
             if (string.IsNullOrWhiteSpace(legalName))
                 throw new ArgumentException("Legal name is required.");
+            String tempString = id;
+            if (!tempString.StartsWith('P'))
+                throw new ArgumentException("Patient ID is invalid, must start with: P.");
             // Valid inputs
             Id = id;
             LegalName = legalName;

@@ -103,6 +103,7 @@ public class AppointmentBookingServiceTests
     }
 
     // New tests, couldn't use copilot, kept crashing :/
+    // Tried several fixes but none worked, even gemini failed while debugging
     // due to copilot crashes I couldn't complete
     // Step 15: Ask Copilot for Test Ideas
     // Step 16: Ask Copilot for a Quality Review
@@ -152,5 +153,24 @@ public class AppointmentBookingServiceTests
         var request = new AppointmentRequest(patient, doctor, DateTime.Today.AddDays(1));
         BookingResult result = new AppointmentBookingService().BookAppointment(request);
         StringAssert.Contains(result.Message, "TestName");
+    }
+
+    [TestMethod]
+    public void BookAppointment_IncludesDoctorName()
+    {
+        var doctor = new Doctor("D001", "Dr Test", 2);
+        var patient = new Patient("P001", "Diana", "TestName");
+        var request = new AppointmentRequest(patient, doctor, DateTime.Today.AddDays(1));
+        BookingResult result = new AppointmentBookingService().BookAppointment(request);
+        StringAssert.Contains(result.Message, "Dr Test");
+    }
+
+    [TestMethod]
+    public void BookAppointment_PatientIdDoesntStartWithP()
+    {
+        var doctor = new Doctor("D001", "Dr Test", 2);
+        Assert.ThrowsException<ArgumentException>(() =>
+            new Patient("D001", "Diana", "TestName")
+        );
     }
 }
